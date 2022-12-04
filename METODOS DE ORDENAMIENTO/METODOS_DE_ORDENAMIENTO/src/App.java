@@ -52,7 +52,6 @@ public class App {
     }
     public static void MergeSort() {
         try {
-            //Metodo de ordenamiento MergeSort
             Scanner sc = new Scanner(System.in);
             System.out.println("Ingrese el tamaño del arreglo");
             int tam = sc.nextInt();
